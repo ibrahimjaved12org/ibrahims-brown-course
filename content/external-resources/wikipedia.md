@@ -6,5 +6,5 @@ license: https://en.wikipedia.org/wiki/All_rights_reserved
 status: ''
 title: wikipedia
 uid: 6a66d012-348a-45d8-af41-d274d63c7ad2
-wayback_url: ''
+wayback_url: https://web.archive.org/web/20241001170912/https://www.wikipedia.org/
 ---
